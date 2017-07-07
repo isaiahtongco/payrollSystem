@@ -7,8 +7,11 @@ public class Class1
 {
 	public Class1()
 	{
-		//
-		// TODO: Add constructor logic here
-		//
+        //
+        // TODO: Add constructor logic here
+        //
+        Console.WriteLine("Test");
+        Console.ReadLine();
+        //Update mo to pre dito sa site
 	}
 }
