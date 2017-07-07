@@ -10,6 +10,7 @@ public class Class1
         //
         // TODO: Add constructor logic here
         //
+        Console.Write("Test");
         Console.WriteLine("Test");
         Console.WriteLine("Isaiah");
         Console.ReadLine();
